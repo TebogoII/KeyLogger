@@ -41,6 +41,3 @@ This is a Python script that acts as a key logger, capturing all keystrokes and 
 
 ---
 
-**How to save the README file:**
-
-Save the above content into a text file named "README.md". The ".md" extension indicates that this is a Markdown file, which is commonly used for documentation. You can create and save this file using a text editor like Notepad (on Windows), TextEdit (on macOS), or any code editor of your choice.
